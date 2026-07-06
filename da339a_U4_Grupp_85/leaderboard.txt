@@ -1,0 +1,3 @@
+Arjan: 125
+Mohamed: 85
+kk: 60
